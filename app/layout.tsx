@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     "Fine line, minimal y tattoo custom en el centro de Barcelona. Cuéntanos tu idea y encuentra la artista que mejor encaja contigo.",
   openGraph: {
     title: "El Estudio Tattoo — Barcelona",
-    description: "No hace falta que traigas el dibujo perfecto. Trae la idea.",
+    description: "No hace falta que traigas el diseño perfecto. Trae la idea.",
     type: "website",
     locale: "es_ES",
   },
